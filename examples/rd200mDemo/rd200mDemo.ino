@@ -44,7 +44,7 @@
   License Information:  https://www.dcity.org/license-information/
 */
 
-#include <Arduino.h>							// some platforms require this include file (e.g. ESP32)
+//#include <Arduino.h>							// some platforms require this include file (e.g. ESP32)
 #include <Dcity_RD200M.h>
 
 
